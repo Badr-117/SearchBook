@@ -19,6 +19,6 @@ An android app that use the Google books API to search books and display data in
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/44711173/58520760-5baad080-8187-11e9-860e-8b2769f6fa8d.png
- " width="180" />
+ " width="150" />
   
 </p>
